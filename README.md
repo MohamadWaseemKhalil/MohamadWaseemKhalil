@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MohamadWaseemKhalil
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning programming languages
+- 💞️ I’m looking to collaborate on python projects
+- 📫 How to reach me: mohwaseemkhalil@gmail.com
